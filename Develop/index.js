@@ -70,23 +70,26 @@ inquirer
 
     var fs = require('fs');
     fs.writeFile("README.md", `
-    Answers Readme:
+    # Answers Readme:
 
-    -Project Title
-    -${Project_title}
+    ## Project Title
+     ${Project_title}
 
-    -Project Description
-    -${Project_description}
+    ## Project Description
+     ${Project_description}
 
-    -Table of Contents
-      1.Installation
+    ## Table of Contents
+      [1.Installation](#section1)
       2.Usage
       3.License
       4.Contributing
       5.Tests
       6.Questions
     ------------------------
+
+    <div id="section1">
       1.Installation
+    </div>
         -${Installation_procedure}
 
       2.Usage
