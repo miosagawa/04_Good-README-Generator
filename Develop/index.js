@@ -79,7 +79,7 @@ inquirer
      ${Project_description}
 
     ## Table of Contents
-      [1.Installation](#section1)
+      1.Installation
       2.Usage
       3.License
       4.Contributing
@@ -87,9 +87,7 @@ inquirer
       6.Questions
     ------------------------
 
-    <div id="section1">
       1.Installation
-    </div>
         -${Installation_procedure}
 
       2.Usage

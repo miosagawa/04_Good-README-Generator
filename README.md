@@ -10,4 +10,4 @@ After the user is finished, a formatted .md file will be generated with the user
 
 __Project Demo:__
 GitHub Repository URL:
-![README-Generator-demo](README_Generator.gif)
+https://drive.google.com/file/d/1hyDbSgRGAuRgD1lSeCqvwHkgtlUZhZBM/view
